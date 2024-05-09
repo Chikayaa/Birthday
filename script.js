@@ -17,8 +17,8 @@ envelope.addEventListener("click", function () {
     message.id = "message";
     message.classList.add("message");
     message.innerHTML = `
-      <h2>I Love You!</h2>
-      <p>You're my sunshine on a rainy day.</p>
+      <h2>How are you?</h2>
+      <p>I hope you know that you're my sunshine on a rainy day.</p>
     `;
 
     const envelopeBody = document.getElementById("envelope-body");

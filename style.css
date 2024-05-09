@@ -63,7 +63,7 @@
     text-align: center;
     transition: all 1s ease-in-out;
     box-shadow: 0 0 5px var(--shadow-color);
-    padding: 20px 10px;
+    padding: 12px 11px;
   }
   
   .envelope > .letter > .text {
